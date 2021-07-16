@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @undercover666
+- 🌱 I’m currently learning python and c#
+- 📫 You can contact me in discord / Alive#3333
